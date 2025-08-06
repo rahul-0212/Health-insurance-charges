@@ -18,17 +18,29 @@ A machine learning-based web application that predicts **medical insurance charg
 ## 📂 Project Structure
 
 ├── app.py # Flask backend server
+
 ├── model.pkl # Pre-trained regression model
+
 ├── insurance.csv # Dataset used for model training
+
 ├── insurance\_clean.csv # Cleaned version of dataset
+
 ├── Insurance\_Prediction.ipynb # Notebook with EDA, model training, metrics
+
 ├── templates/ # HTML pages for frontend
+
 │ ├── index.html
+
 │ ├── about.html
+
 │ ├── contact.html
+
 │ ├── history.html
+
 │ └── layout.html
+
 ├── static/ # Images and visual assets
+
 │ └── logo and health-insurance image
 
 ## 📝 Important Notes
